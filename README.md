@@ -12,12 +12,12 @@ Python version: 3.7
 
 ## Setup
 
-1. Create virtual env with `virtualenv`
+1. Create virtual env
 2. Enable virtual env
 3. Install dev dependencies
 
 ```console
-virtualenv .venv -p python3
+python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
