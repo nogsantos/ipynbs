@@ -1,5 +1,6 @@
-# EDA - Exploratory Data Analysis for Poc matplot charts
+# EDA - Exploratory Data Analysis
 
+How to analyse data with python
 
 License MIT
 
